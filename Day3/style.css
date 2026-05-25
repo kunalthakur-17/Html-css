@@ -1,0 +1,20 @@
+ /* #box1 {
+        height: 100px;
+        width: 100px;
+        background-color: yellowgreen;
+        text-align: center;
+
+    } */
+
+    #box1 {
+       text-decoration: overline;
+
+
+    }
+
+    #box2 {
+       text-decoration: underline;
+}
+  #box3 {
+       text-decoration: line-through;
+}
